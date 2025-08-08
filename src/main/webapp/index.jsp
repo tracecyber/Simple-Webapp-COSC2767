@@ -26,6 +26,7 @@
 <h1 class="display-4">riggered by Github Webhook</h1>
 <h1 class="display-4">riggered by Github Webhook</h1>
 <h1 class="display-4">riggered by Github Webhook</h1>
+<h1 class="display-4">Fixing after having error</h1>
     </div>
     <!-- The content of the website ends here! -->
 
